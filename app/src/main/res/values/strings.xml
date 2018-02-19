@@ -1,0 +1,45 @@
+<resources>
+    <!-- Titles -->
+    <string name="app_name">User Manager</string>
+    <string name="action_list_users">List Users</string>
+    <string name="action_insert_users">Insert New Users</string>
+
+    <!-- Insert Users Values -->
+    <string name="insert_users_nationality">Nationality: </string>
+    <string name="insert_users_gender">Gender: </string>
+    <string name="insert_users_number">Number: </string>
+    <string name="insert_users_start_date">Register Date: </string>
+    <string name="insert_users_submit">Insert users</string>
+
+    <string name="default_insert_users_number">1</string>
+    <string name="default_insert_users_start_date">Enter Date</string>
+
+    <!-- Insert Users hints -->
+    <string name="hint_insert_users_nationality">Pick nationality</string>
+    <string name="hint_insert_users_gender">Pick gender</string>
+    <string name="hint_insert_users_number">Pick number of users</string>
+    <string name="hint_insert_users_start_date">Pick register date</string>
+
+    <!-- Image descriptions -->
+    <string name="user_picture">User Picture</string>
+    <string name="user_location">User Location</string>
+
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+    <string name="gender_M">M</string>
+    <string name="gender_F">F</string>
+    <string name="gender_none">-</string>
+
+    <string name="num_picker_title">Select number of users:</string>
+    <string name="num_picker_ok">OK</string>
+
+    <string name="api_request_method">GET</string>
+
+    <string name="api_base_url">https://randomuser.me/api/?format=json&amp;inc=name,registered,gender,picture,login,location</string>
+    <string name="gmaps_base_url">https://www.google.com/maps/search/?api=1&amp;query=</string>
+
+    <string name="notification_users_added">users added</string>
+    <string name="notification_users_added_ticker">New users added!</string>
+
+    <string name="db_name">users</string>
+</resources>

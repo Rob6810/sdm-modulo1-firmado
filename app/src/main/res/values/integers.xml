@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="splash_timeout">3000</integer>
+
+    <integer name="api_request_read_timeout">15000</integer>
+    <integer name="api_request_connection_timeout">15000</integer>
+
+    <integer name="num_picker_min">1</integer>
+    <integer name="num_picker_max">5000</integer>
+</resources>

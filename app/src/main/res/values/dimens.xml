@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_xs">4dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_size_sm">16sp</dimen>
+    <dimen name="text_size_xs">12sp</dimen>
+    <dimen name="list_user_button">50dp</dimen>
+    <dimen name="list_user_name">30dp</dimen>
+    <dimen name="list_user_registered">20dp</dimen>
+    <dimen name="list_user_access">25dp</dimen>
+
+</resources>
